@@ -1,0 +1,6 @@
+[book]
+authors = ["Avdushin"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Лабораторная работа №4"
